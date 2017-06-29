@@ -32,7 +32,7 @@ $(document).ready(function(){
 
 					iegut_datus(div,"./sendCode.php?dataa="+dat);
 
-				}, 5000);
+				}, 6000);
 			}
 		});
 	}
